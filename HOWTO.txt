@@ -1,0 +1,5 @@
+https://tdhopper.com/blog/my-python-environment-workflow-with-conda/
+
+conda env create .
+
+activate celery-env

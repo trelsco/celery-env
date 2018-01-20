@@ -1,0 +1,13 @@
+name: celery-env
+dependencies:
+        - python=3
+        - numpy
+        - pandas
+
+        - pip
+        - pip:
+                - celery
+                - flower
+                - rabbitmq
+
+
